@@ -115,7 +115,7 @@ class ProductDetails extends StatelessWidget{
                   child: Container(
 
 
-                    margin: const EdgeInsets.only(top: 20, bottom: 20, left: 10 ),
+                    margin: const EdgeInsets.only(top: 10, bottom: 20, left: 10 ),
                     width: 105,
                     height: 30,
 
