@@ -6,5 +6,6 @@
 >
 <img <img width="515" alt="Снимок экрана 2024-03-04 в 10 01 34 1" src="https://github.com/Dasheeer/laba_chasiki/assets/140635378/1ec14231-9bdb-4a41-b761-673a409f9cf2">
 >
-<img <img width="515" alt="Снимок экрана 2024-03-04 в 10 01 34 1" src="https://github.com/Dasheeer/laba_chasiki/assets/140635378/ce29f45a-fcd8-49f8-be4f-59c2afd150f8">
+<img <img width="512" alt="Снимок экрана 2024-03-04 в 10 03 11" src="https://github.com/Dasheeer/laba_chasiki/assets/140635378/bc64471c-0428-4228-94fc-e7714aebce00">
+>
 >
